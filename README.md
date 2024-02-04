@@ -26,7 +26,7 @@ This project is a sophisticated voice-activated chat system that leverages state
 
 1. Install the required libraries with pip:
 
-```bash
+
 pip install sounddevice numpy vosk pyttsx3 torch
 
 
@@ -43,7 +43,6 @@ Setup
 Running the System
 
 Execute the script to start the voice chat:
-
 
 python llama_vosk_Voice_chatbot.py
 
