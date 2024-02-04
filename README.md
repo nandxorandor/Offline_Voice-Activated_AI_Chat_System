@@ -1,7 +1,6 @@
-# Voice-Activated AI Chat System
+# Offline Voice-Activated AI Chat System
 
-This project is a sophisticated voice-activated chat system that leverages state-of-the-art AI for real-time conversation. It listens to spoken input through a microphone, transcribes the speech to text using the Vosk library, generates responses with the LlamaCpp model, and then speaks back the response using pyttsx3, creating a seamless conversational experience.
-
+This project is a sophisticated voice-activated chat system leveraging state-of-the-art AI for real-time conversation. Designed to operate entirely offline, it ensures maximum privacy and data security, allowing users to interact with the system without the need for an internet connection. The system listens to spoken input through a microphone, transcribes the speech to text using the Vosk library, generates responses with the LlamaCpp model, and then speaks back the response using pyttsx3, creating a seamless conversational experience entirely on your local device.
 ## Key Features
 
 - **Real-Time Voice Recognition**: Transcribes spoken language into text in real-time.
