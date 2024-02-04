@@ -34,13 +34,13 @@ pip install sounddevice numpy vosk pyttsx3 torch
 
     Obtain the LlamaCpp model file suitable for conversational AI and ensure it's accessible to the script.
 
-Setup
+## Setup
 
     Update model_path to your Vosk model directory.
     Set llama_model_path to the location of your LlamaCpp model file.
     Confirm your microphone is correctly set up as the default recording device. Adjust the script if using a specific device.
 
-Running the System
+## Running the System
 
 Execute the script to start the voice chat:
 
@@ -54,7 +54,7 @@ Usage Notes
     High-quality microphones significantly improve transcription accuracy and overall experience.
     The conversation history is utilized to provide context to the AI, making responses more relevant.
 
-Contributing
+## Contributing
 
 Contributions are welcome! If you have ideas for new features, improvements, or have found bugs, feel free to fork this repository, make changes, and submit a pull request.
 
