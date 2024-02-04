@@ -60,7 +60,7 @@ Contributing
 Contributions are welcome! If you have ideas for new features, improvements, or have found bugs, feel free to fork this repository, make changes, and submit a pull request.
 
 
-Licensing Strategy for Personal and Commercial Use of Software
+## Licensing Strategy for Personal and Commercial Use of Software
 Introduction
 
 In the evolving landscape of software development, striking a balance between open accessibility for personal use and monetizing commercial applications is a critical challenge for developers. This document outlines a licensing strategy designed to permit personal use of software freely while regulating commercial usage through explicit permissions or licensing agreements.
