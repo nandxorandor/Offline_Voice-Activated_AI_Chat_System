@@ -15,7 +15,7 @@ device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 model_n_gpu_layers = int(os.environ.get('MODEL_N_GPU_LAYERS', 56))
 
 # Settings
-model_path = "C:/Users/msicu/llama_models_notes_generators/vosk-model-en-us-0.22-lgraph"
+model_path = "C:/Users/user/llama_models_notes_generators/vosk-model-en-us-0.22-lgraph"
 llama_model_path = "openhermes-2.5-mistral-7b.Q4_K_M.gguf"
 sample_rate = 16000
 device = None  # None uses the default audio device
